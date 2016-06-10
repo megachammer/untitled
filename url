@@ -1,0 +1,10 @@
+
+a= 'string'
+b= 'another string'
+print (len (a+b))
+
+
+
+a= 'string'
+b= 'another string'
+print (len (a*55))
